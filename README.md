@@ -249,9 +249,9 @@
 **Поддержка сетей/монет:**
   * Ссылка: [Поддерживаемые протоколы/сети](https://docs.blockdaemon.com/reference/gettxsbyaddress)
     * BTC ✅
-    * LTC ✅
     * TRON ❌
     * TON ❌
+    * LTC ✅
 
 **Наличие PHP SDK:**
   * PHP SDK нет
